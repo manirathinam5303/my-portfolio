@@ -1,0 +1,8 @@
+.project_content {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #eae8ef;
+  border-radius: 10px;
+}

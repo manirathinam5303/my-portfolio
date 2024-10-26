@@ -1,0 +1,20 @@
+.personal-detail {
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  transition: background-color 0.3s ease;
+}
+
+.personal-detail:hover {
+  background-color: #e2e6ea;
+}
+
+h2 {
+  color: #343a40;
+}
+
+h4 {
+  color: #495057;
+}
